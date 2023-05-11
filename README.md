@@ -14,6 +14,8 @@ El proyecto implementa una arquitectura MVVM (Modelo-Vista-VistaModelo) potencia
 - Coroutines: Empleo de Coroutines para facilitar la programación asíncrona y el manejo de hilos de ejecución de manera sencilla y concisa.
 - Hilt: Uso de Hilt para la inyección de dependencias, lo que simplifica la gestión y configuración de las dependencias del proyecto.
 
+![image1](https://github.com/vcode09/instaleap/assets/72045621/446721eb-8303-48e3-8bbd-7d0709e2c9f2)
+
 
 ## Dependencias
 
