@@ -15,6 +15,11 @@ El proyecto implementa una arquitectura MVVM (Modelo-Vista-VistaModelo) potencia
 - Hilt: Uso de Hilt para la inyección de dependencias, lo que simplifica la gestión y configuración de las dependencias del proyecto.
 
 ![image1](https://github.com/vcode09/instaleap/assets/72045621/446721eb-8303-48e3-8bbd-7d0709e2c9f2)
+![image2](https://github.com/vcode09/instaleap/assets/72045621/91be10bb-43d8-4040-b74a-836e6e5265fb)
+![image3](https://github.com/vcode09/instaleap/assets/72045621/9518d227-3acd-40f3-b1ad-6058a211aaad)
+![image4](https://github.com/vcode09/instaleap/assets/72045621/054d1f90-e1ee-4a8e-867d-31a165bafa88)
+![image5](https://github.com/vcode09/instaleap/assets/72045621/9a14490b-e54c-4a6a-966d-0989eaffeb91)
+![image6](https://github.com/vcode09/instaleap/assets/72045621/f6f0fce0-7136-47d8-ab14-9867b77a24e2)
 
 
 ## Dependencias
