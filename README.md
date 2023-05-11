@@ -1,6 +1,6 @@
 # InstaLeap
 
-ae trata de una aplicación Android que muestra un conjunto de películas y series, distribuidas en tres pantallas distintas. 
+Se trata de una aplicación Android que muestra un conjunto de películas y series, distribuidas en tres pantallas distintas. 
 En la pantalla principal, se encuentra un listado maestro con una descripción de cada elemento. Además, al seleccionar un elemento, se puede acceder a una pantalla emergente de detalles, donde se muestra información más detallada sobre el elemento seleccionado.
 
 ## Descripción
